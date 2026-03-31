@@ -105,18 +105,18 @@ export default function HeroSection() {
             >
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
-                  href="https://t.me/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="tel:+79505406612"
                   className="inline-flex items-center justify-center px-8 py-3 bg-white text-black font-medium text-sm uppercase tracking-wider hover:bg-white/90 transition-colors"
                 >
                   Заказать печать
                 </a>
                 <a
-                  href="tel:"
+                  href="https://wa.me/79505406612"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-flex items-center justify-center px-8 py-3 border border-white/40 text-white font-light text-sm uppercase tracking-wider hover:border-white/80 transition-colors"
                 >
-                  Позвонить нам
+                  WhatsApp
                 </a>
               </div>
             </div>
