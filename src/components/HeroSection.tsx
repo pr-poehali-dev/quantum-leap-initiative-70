@@ -65,7 +65,7 @@ export default function HeroSection() {
             >
               <div className="flex items-center gap-3 mb-4">
                 <div className="h-1 w-12 bg-white" />
-                <span className="text-white/60 text-sm uppercase tracking-widest font-light">Печатный сервис</span>
+                <span className="text-white/60 text-sm uppercase tracking-widest font-light">Печатный сервис · Елена · <a href="tel:+79505406612" className="hover:text-white transition-colors">8 950 540-66-12</a></span>
               </div>
               <h1 className="text-5xl font-light text-white md:text-6xl lg:text-7xl leading-tight">
                 Печатаем<br />
